@@ -85,7 +85,7 @@
 
                                 <TextBox Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" Height="23"
                                          TextWrapping="Wrap" Text="487" TextAlignment="Right" Name="TextBoxQuantity"
-                                         Background="SpringGreen" />
+                                         Background="Yellow" />
                                 <Label Grid.Row="3" Grid.Column="0" Content="Quantity" HorizontalAlignment="Left"
                                        VerticalAlignment="Top"  Margin="10,0,0,0"/>
 
