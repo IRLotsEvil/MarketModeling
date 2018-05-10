@@ -89,7 +89,7 @@
                                 <Label Grid.Row="3" Grid.Column="0" Content="Quantity" HorizontalAlignment="Left"
                                        VerticalAlignment="Top"  Margin="10,0,0,0"/>
 
-                                <TextBox Grid.Row="4" Grid.Column="1" HorizontalAlignment="Stretch" Height="23"
+                                <TextBox Grid.Row="4" Grid.Column="1" HorizontalAlignment="Stretch" Height="23" Background="Bisque"
                                          TextWrapping="Wrap" Text="" TextAlignment="Right" Name="TextBoxInvested" />
                                 <Label Grid.Row="4" Grid.Column="0" Content="Invested" HorizontalAlignment="Left"
                                        VerticalAlignment="Top"  Margin="10,0,0,0"/>
